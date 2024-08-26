@@ -1,0 +1,21 @@
+SHOOTER RECTANGLE
+x = 470, y = 490 
+w = 10, h = 100 
+SHOOTER RECTANGLE
+x = 1430, y = 490 
+w = 10, h = 100 
+TRYING TO LOAD STRIKERTRYING TO LOAD STRIKERWindow Size: height = 1080, width = 1920 
+Window Position: posx = 0, posy = 0 
+TARGET RECTANGLE
+x = 954, y = 534 
+w = 12, h = 12 
+Recieved keypress: G
+G:2
+striker collided with left edge of window 
+striker collided with left edge of window 
+striker collided with left edge of window 
+striker collided with left edge of window 
+striker collided with left edge of window 
+striker collided with left edge of window 
+striker collided with left edge of window 
+detected collision with right edge of window 
